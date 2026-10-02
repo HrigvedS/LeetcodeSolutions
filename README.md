@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HrigvedS/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/HrigvedS/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
